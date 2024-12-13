@@ -19,7 +19,7 @@ This module enables the resolution of various types of problems. We refer to one
 # Installation
 
 ```bash
-python -m pip install git+https://github.com/hugocoche/BatchMonitor.git
+python -m pip install git+https://github.com/Greg-jllt/BatchMonitor.git
 ```
 # Utilisation guide
 
@@ -43,7 +43,7 @@ For more information, it's [here](docs/UTILISATION_GUIDE_LIBRARY.md)
 - In the other case, follow these steps:
 - Clone the package with the following command:
 ```python
-git clone https://github.com/hugocoche/BatchMonitor.git
+git clone https://github.com/Greg-jllt/BatchMonitor.git
 ```
 - Open a terminal in the root directory of the package with the command:
 ```python
